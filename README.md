@@ -5,9 +5,15 @@ It is assumed that all the data used is in 'getdata_projectfiles_UCI HAR Dataset
 
 "dataset.txt" is the tidy dataset which is obtained after running all the steps of the
 assignment. This dataset is saved using write.table(), as suggested by one of the community TA's.
+(To the grader: Please note that this file is not uploaded onto Github as it is submitted in a separate
+step. Also please note that this file displays properly when loaded in R, which appears to be the
+requirement, according to one of the TA's.).
+
 
 "CodeBook.md" contains the names and descriptions of the variables in the tidy dataset which is named 
 "dataset.txt" and saved in the working directory.
+(To the grader: Please note that you may need to open this file in raw format for it to display 
+properly. It was created in a different editor from the script and the README file).
 
 ======================================================================================================
 
